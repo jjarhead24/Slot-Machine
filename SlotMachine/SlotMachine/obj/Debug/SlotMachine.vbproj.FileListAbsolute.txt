@@ -1,0 +1,12 @@
+\\cca07\C14\SeyJar14\GitHub\Slot machine\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe.config
+\\cca07\C14\SeyJar14\GitHub\Slot machine\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe
+\\cca07\C14\SeyJar14\GitHub\Slot machine\SlotMachine\SlotMachine\bin\Debug\SlotMachine.pdb
+\\cca07\C14\SeyJar14\GitHub\Slot machine\SlotMachine\SlotMachine\bin\Debug\SlotMachine.xml
+\\cca07\C14\SeyJar14\GitHub\Slot machine\SlotMachine\SlotMachine\obj\Debug\SlotMachine.vbprojAssemblyReference.cache
+\\cca07\C14\SeyJar14\GitHub\Slot machine\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Resources.resources
+\\cca07\C14\SeyJar14\GitHub\Slot machine\SlotMachine\SlotMachine\obj\Debug\SlotMachine.vbproj.GenerateResource.cache
+\\cca07\C14\SeyJar14\GitHub\Slot machine\SlotMachine\SlotMachine\obj\Debug\SlotMachine.exe
+\\cca07\C14\SeyJar14\GitHub\Slot machine\SlotMachine\SlotMachine\obj\Debug\SlotMachine.xml
+\\cca07\C14\SeyJar14\GitHub\Slot machine\SlotMachine\SlotMachine\obj\Debug\SlotMachine.pdb
+\\cca07\C14\SeyJar14\GitHub\Slot machine\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Form1.resources
+\\cca07\C14\SeyJar14\GitHub\Slot machine\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Login.resources
